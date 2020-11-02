@@ -3,8 +3,8 @@
  
 ## Usage
 
-'''bash
+```bash
 node BlockInfo.js                   Displays polkadot network current block information.
 
 node BlockInfo.js <blocknumber>     Displays polkadot network <blocknumber> information.
-'''
+```
